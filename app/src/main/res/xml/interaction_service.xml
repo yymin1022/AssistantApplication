@@ -1,0 +1,6 @@
+<voice-interaction-service
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:sessionService="io.tqeil.assistant.AssistantSessionService"
+    android:recognitionService="io.tqeil.assistant.AssistantService"
+    android:settingsActivity="io.tqeil.assistant.SettingsActivity"
+    android:supportsAssist="true" />
